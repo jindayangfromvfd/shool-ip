@@ -1,0 +1,1357 @@
+<table id="CheckoutSelectPatronMainTable" cellspacing="0" cellpadding="3" width="100%" border="0">
+                    <tbody><tr>
+	                   <td class="TableHeading" valign="bottom" width="55%">
+	                     Homeroom: 5.3 Ms. Flores and Ms. Jin
+                       </td><td align="left">
+                       <span class="ColRowBold">Sort By</span>
+	                      <select name="sortType" onchange="this.form.submit()" class="ColRow right-align"><option value="1" selected="selected">First Name</option> 
+	                          <option value="2">Last Name</option> 
+	                          <option value="3">Nickname</option></select>
+	                   </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><img src="/images/icons/general/line.gif" border="0" alt="" title="" width="100%" height="1"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <table id="CheckoutSelectPatronTable" cellpadding="5" cellspacing="0" width="100%">
+   <tbody><tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1448"><img border="0" alt="Angel WANG (Student: SCLSID20300006)" title="Angel WANG (Student: SCLSID20300006)" src="/imagestore/patrons/1644978858643_SCLSID20300006.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1448">Angel WANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1507"><img border="0" alt="Arthur CHEN (Student: SCLSID20300071)" title="Arthur CHEN (Student: SCLSID20300071)" src="/imagestore/patrons/1644978864653_SCLSID20300071.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1507">Arthur CHEN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1468"><img border="0" alt="Chris CANG (Student: SCLSID20300026)" title="Chris CANG (Student: SCLSID20300026)" src="/imagestore/patrons/1644978864043_SCLSID20300026.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1468">Chris CANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=2528"><img border="0" alt="Darren MENG (Student: SCLSID20300096)" title="Darren MENG (Student: SCLSID20300096)" src="/imagestore/patrons/1644978863298_SCLSID20300096.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=2528">Darren MENG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1450"><img border="0" alt="Eason WANG (Student: SCLSID20300008)" title="Eason WANG (Student: SCLSID20300008)" src="/imagestore/patrons/1644978863798_SCLSID20300008.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1450">Eason WANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1466"><img border="0" alt="Elsie WEI (Student: SCLSID20300024)" title="Elsie WEI (Student: SCLSID20300024)" src="/imagestore/patrons/1644978862653_SCLSID20300024.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1466">Elsie WEI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1504"><img border="0" alt="Emma CHEN (Student: SCLSID20300068)" title="Emma CHEN (Student: SCLSID20300068)" src="/imagestore/patrons/1644978861883_SCLSID20300068.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1504">Emma CHEN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1485"><img border="0" alt="Helen ZHOU (Student: SCLSID20300049)" title="Helen ZHOU (Student: SCLSID20300049)" src="/imagestore/patrons/1644978860663_SCLSID20300049.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1485">Helen ZHOU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=2527"><img border="0" alt="Hotaru TANAKA (Student: SCLSID20300095)" title="Hotaru TANAKA (Student: SCLSID20300095)" src="/imagestore/patrons/1644978860498_SCLSID20300095.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=2527">Hotaru TANAKA</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1455"><img border="0" alt="Ian CHZHU (Student: SCLSID20300013)" title="Ian CHZHU (Student: SCLSID20300013)" src="/imagestore/patrons/1644978860348_SCLSID20300013.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1455">Ian CHZHU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1526"><img border="0" alt="Ivan REN (Student: SCLSID20300090)" title="Ivan REN (Student: SCLSID20300090)" src="/imagestore/patrons/1644978862128_SCLSID20300090.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1526">Ivan REN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1506"><img border="0" alt="Jeremy YE (Student: SCLSID20300070)" title="Jeremy YE (Student: SCLSID20300070)" src="/imagestore/patrons/1644978862493_SCLSID20300070.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1506">Jeremy YE</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=3636"><img border="0" alt="Jin Ying TOH (Student: SCLSID20300103)" title="Jin Ying TOH (Student: SCLSID20300103)" src="/imagestore/patrons/1644978863148_SCLSID20300103.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=3636">Jin Ying TOH</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1500"><img border="0" alt="Jinda YANG (Student: SCLSID20300064)" title="Jinda YANG (Student: SCLSID20300064)" src="/imagestore/patrons/1644978859388_SCLSID20300064.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1500">Jinda YANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1486"><img border="0" alt="Julian KOK (Student: SCLSID20300050)" title="Julian KOK (Student: SCLSID20300050)" src="/imagestore/patrons/1644978859828_SCLSID20300050.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1486">Julian KOK</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1489"><img border="0" alt="Mie SHIRAYUKI (Student: SCLSID20300053)" title="Mie SHIRAYUKI (Student: SCLSID20300053)" src="/imagestore/patrons/1644978862963_SCLSID20300053.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1489">Mie SHIRAYUKI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1478"><img border="0" alt="Neo HAN (Student: SCLSID20300039)" title="Neo HAN (Student: SCLSID20300039)" src="/imagestore/patrons/1644978862568_SCLSID20300039.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1478">Neo HAN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1522"><img border="0" alt="Nicole CHEN (Student: SCLSID20300086)" title="Nicole CHEN (Student: SCLSID20300086)" src="/imagestore/patrons/1644978858563_SCLSID20300086.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1522">Nicole CHEN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1515"><img border="0" alt="Peipei SHUE (Student: SCLSID20300079)" title="Peipei SHUE (Student: SCLSID20300079)" src="/imagestore/patrons/1644978865019_SCLSID20300079.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1515">Peipei SHUE</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1454"><img border="0" alt="Tanke WANG (Student: SCLSID20300012)" title="Tanke WANG (Student: SCLSID20300012)" src="/imagestore/patrons/1644978865463_SCLSID20300012.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1454">Tanke WANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_5_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6582"><img border="0" alt="Winston ZHANG (Student: SCLSID20300116)" title="Winston ZHANG (Student: SCLSID20300116)" src="/images/en/icons/general/noselectpatronimage.gif?cachevers=4" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6582">Winston ZHANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_5_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1449"><img border="0" alt="Yosephine HUI (Student: SCLSID20300007)" title="Yosephine HUI (Student: SCLSID20300007)" src="/imagestore/patrons/1644978861088_SCLSID20300007.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1449">Yosephine HUI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+   </tr>
+</tbody></table>
+  
+                        </td>
+                    </tr>
+                </tbody></table>
+<table id="CheckoutSelectPatronMainTable" cellspacing="0" cellpadding="3" width="100%" border="0">
+                    <tbody><tr>
+	                   <td class="TableHeading" valign="bottom" width="55%">
+	                     Homeroom: 5.4 Mr. Howard and Ms. Rui
+                       </td><td align="left">
+                       <span class="ColRowBold">Sort By</span>
+	                      <select name="sortType" onchange="this.form.submit()" class="ColRow right-align"><option value="1" selected="selected">First Name</option> 
+	                          <option value="2">Last Name</option> 
+	                          <option value="3">Nickname</option></select>
+	                   </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><img src="/images/icons/general/line.gif" border="0" alt="" title="" width="100%" height="1"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <table id="CheckoutSelectPatronTable" cellpadding="5" cellspacing="0" width="100%">
+   <tbody><tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=2530"><img border="0" alt="Aidan LAM (Student: SCLSID20300094)" title="Aidan LAM (Student: SCLSID20300094)" src="/imagestore/patrons/1667293172734_SCLSID20300094.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=2530">Aidan LAM</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1502"><img border="0" alt="Akitoshi NAKANISHI (Student: SCLSID20300066)" title="Akitoshi NAKANISHI (Student: SCLSID20300066)" src="/imagestore/patrons/1667293173289_SCLSID20300066.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1502">Akitoshi NAKANISHI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1453"><img border="0" alt="Amanda CHEN (Student: SCLSID20300011)" title="Amanda CHEN (Student: SCLSID20300011)" src="/imagestore/patrons/1644978865638_SCLSID20300011.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1453">Amanda CHEN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1471"><img border="0" alt="Angela ZHU (Student: SCLSID20300031)" title="Angela ZHU (Student: SCLSID20300031)" src="/imagestore/patrons/1667293173884_SCLSID20300031.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1471">Angela ZHU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1518"><img border="0" alt="Bill CHAN (Student: SCLSID20300082)" title="Bill CHAN (Student: SCLSID20300082)" src="/imagestore/patrons/1667293171869_SCLSID20300082.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1518">Bill CHAN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1451"><img border="0" alt="Brian HUANG (Student: SCLSID20300009)" title="Brian HUANG (Student: SCLSID20300009)" src="/imagestore/patrons/1667293172489_SCLSID20300009.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1451">Brian HUANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1510"><img border="0" alt="Channing ZHAO (Student: SCLSID20300074)" title="Channing ZHAO (Student: SCLSID20300074)" src="/imagestore/patrons/1667293173704_SCLSID20300074.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1510">Channing ZHAO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1498"><img border="0" alt="Dada ZHOU (Student: SCLSID20300062)" title="Dada ZHOU (Student: SCLSID20300062)" src="/imagestore/patrons/1667293173784_SCLSID20300062.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1498">Dada ZHOU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1463"><img border="0" alt="Hank CHENG (Student: SCLSID20300021)" title="Hank CHENG (Student: SCLSID20300021)" src="/imagestore/patrons/1667293172239_SCLSID20300021.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1463">Hank CHENG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=5349"><img border="0" alt="Hannah TAN (Student: SCLSID20300108)" title="Hannah TAN (Student: SCLSID20300108)" src="/imagestore/patrons/1667293173464_SCLSID20300108.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=5349">Hannah TAN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1490"><img border="0" alt="Jayden ZHANG (Student: SCLSID20300054)" title="Jayden ZHANG (Student: SCLSID20300054)" src="/imagestore/patrons/1667293173619_SCLSID20300054.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1490">Jayden ZHANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1470"><img border="0" alt="Jesse SEOW (Student: SCLSID20300030)" title="Jesse SEOW (Student: SCLSID20300030)" src="/imagestore/patrons/1667293173369_SCLSID20300030.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1470">Jesse SEOW</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=5350"><img border="0" alt="Jiahao LUO (Student: SCLSID20300110)" title="Jiahao LUO (Student: SCLSID20300110)" src="/imagestore/patrons/1667293335470_1994975150.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=5350">Jiahao LUO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1484"><img border="0" alt="Leonardo LU (Student: SCLSID20300048)" title="Leonardo LU (Student: SCLSID20300048)" src="/imagestore/patrons/1667293173184_SCLSID20300048.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1484">Leonardo LU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1497"><img border="0" alt="Luke ECKLESDAFER (Student: SCLSID20300061)" title="Luke ECKLESDAFER (Student: SCLSID20300061)" src="/imagestore/patrons/1667293172369_SCLSID20300061.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1497">Luke ECKLESDAFER</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1493"><img border="0" alt="Lydia LIN (Student: SCLSID20300057)" title="Lydia LIN (Student: SCLSID20300057)" src="/imagestore/patrons/1667293173014_SCLSID20300057.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1493">Lydia LIN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1460"><img border="0" alt="Max LIN (Student: SCLSID20300018)" title="Max LIN (Student: SCLSID20300018)" src="/imagestore/patrons/1667293172929_SCLSID20300018.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1460">Max LIN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1508"><img border="0" alt="Michael LI (Student: SCLSID20300072)" title="Michael LI (Student: SCLSID20300072)" src="/imagestore/patrons/1667293172834_SCLSID20300072.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1508">Michael LI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1503"><img border="0" alt="Victoria LOO (Student: SCLSID20300067)" title="Victoria LOO (Student: SCLSID20300067)" src="/imagestore/patrons/1667293173099_SCLSID20300067.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1503">Victoria LOO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1467"><img border="0" alt="Zoe ZHANG (Student: SCLSID20300025)" title="Zoe ZHANG (Student: SCLSID20300025)" src="/imagestore/patrons/1667293173539_SCLSID20300025.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1467">Zoe ZHANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+</tbody></table>
+  
+                        </td>
+                    </tr>
+                </tbody></table>
+<table id="CheckoutSelectPatronMainTable" cellspacing="0" cellpadding="3" width="100%" border="0">
+                    <tbody><tr>
+	                   <td class="TableHeading" valign="bottom" width="55%">
+	                     Homeroom: 5.5 Ms. Holloway and Mr. Zhou
+                       </td><td align="left">
+                       <span class="ColRowBold">Sort By</span>
+	                      <select name="sortType" onchange="this.form.submit()" class="ColRow right-align"><option value="1" selected="selected">First Name</option> 
+	                          <option value="2">Last Name</option> 
+	                          <option value="3">Nickname</option></select>
+	                   </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><img src="/images/icons/general/line.gif" border="0" alt="" title="" width="100%" height="1"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <table id="CheckoutSelectPatronTable" cellpadding="5" cellspacing="0" width="100%">
+   <tbody><tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=4658"><img border="0" alt="Anna CHANG (Student: SCLSID20300107)" title="Anna CHANG (Student: SCLSID20300107)" src="/imagestore/patrons/1644978865203_SCLSID20300107.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=4658">Anna CHANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1520"><img border="0" alt="Cindy XU (Student: SCLSID20300084)" title="Cindy XU (Student: SCLSID20300084)" src="/imagestore/patrons/1644978859488_SCLSID20300084.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1520">Cindy XU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1445"><img border="0" alt="Dragon CAO (Student: SCLSID20300003)" title="Dragon CAO (Student: SCLSID20300003)" src="/imagestore/patrons/1644978860428_SCLSID20300003.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1445">Dragon CAO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1465"><img border="0" alt="Emma CHEUNG (Student: SCLSID20300023)" title="Emma CHEUNG (Student: SCLSID20300023)" src="/imagestore/patrons/1644978864123_SCLSID20300023.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1465">Emma CHEUNG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1487"><img border="0" alt="Grace SHAO (Student: SCLSID20300051)" title="Grace SHAO (Student: SCLSID20300051)" src="/imagestore/patrons/1644978859753_SCLSID20300051.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1487">Grace SHAO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1479"><img border="0" alt="Grissom PLASPOHL (Student: SCLSID20300040)" title="Grissom PLASPOHL (Student: SCLSID20300040)" src="/imagestore/patrons/1644978858808_SCLSID20300040.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1479">Grissom PLASPOHL</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1492"><img border="0" alt="Henry XIA (Student: SCLSID20300056)" title="Henry XIA (Student: SCLSID20300056)" src="/imagestore/patrons/1644978861968_SCLSID20300056.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1492">Henry XIA</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1446"><img border="0" alt="Jack ZHENG (Student: SCLSID20300004)" title="Jack ZHENG (Student: SCLSID20300004)" src="/imagestore/patrons/1644978862848_SCLSID20300004.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1446">Jack ZHENG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1475"><img border="0" alt="Juliet DENG (Student: SCLSID20300036)" title="Juliet DENG (Student: SCLSID20300036)" src="/imagestore/patrons/1644978859308_SCLSID20300036.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1475">Juliet DENG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1472"><img border="0" alt="Kirsten WANG (Student: SCLSID20300032)" title="Kirsten WANG (Student: SCLSID20300032)" src="/imagestore/patrons/1644978861243_SCLSID20300032.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1472">Kirsten WANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1505"><img border="0" alt="Luke LAI (Student: SCLSID20300069)" title="Luke LAI (Student: SCLSID20300069)" src="/imagestore/patrons/1644978863963_SCLSID20300069.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1505">Luke LAI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1457"><img border="0" alt="Machiko MAO (Student: SCLSID20300015)" title="Machiko MAO (Student: SCLSID20300015)" src="/imagestore/patrons/1644978863368_SCLSID20300015.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1457">Machiko MAO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1525"><img border="0" alt="Nuo ZHU (Student: SCLSID20300089)" title="Nuo ZHU (Student: SCLSID20300089)" src="/imagestore/patrons/1644978859023_SCLSID20300089.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1525">Nuo ZHU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6173"><img border="0" alt="Olivia LI (Student: 203010113)" title="Olivia LI (Student: 203010113)" src="/images/en/icons/general/noselectpatronimage.gif?cachevers=4" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6173">Olivia LI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1494"><img border="0" alt="Paris WEI (Student: SCLSID20300058)" title="Paris WEI (Student: SCLSID20300058)" src="/imagestore/patrons/1644978862743_SCLSID20300058.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1494">Paris WEI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1456"><img border="0" alt="Prince YU (Student: SCLSID20300014)" title="Prince YU (Student: SCLSID20300014)" src="/imagestore/patrons/1644978860188_SCLSID20300014.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1456">Prince YU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1480"><img border="0" alt="Sarah QIU (Student: SCLSID20300043)" title="Sarah QIU (Student: SCLSID20300043)" src="/imagestore/patrons/1644978862398_SCLSID20300043.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1480">Sarah QIU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6583"><img border="0" alt="Thomas XIAO (Student: SCLSID20300115)" title="Thomas XIAO (Student: SCLSID20300115)" src="/images/en/icons/general/noselectpatronimage.gif?cachevers=4" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6583">Thomas XIAO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1474"><img border="0" alt="Tina YANG (Student: SCLSID20300035)" title="Tina YANG (Student: SCLSID20300035)" src="/imagestore/patrons/1644978863518_SCLSID20300035.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1474">Tina YANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1458"><img border="0" alt="Tony ZHAO (Student: SCLSID20300016)" title="Tony ZHAO (Student: SCLSID20300016)" src="/imagestore/patrons/1644978862043_SCLSID20300016.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1458">Tony ZHAO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_5_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1473"><img border="0" alt="William CHEN (Student: SCLSID20300034)" title="William CHEN (Student: SCLSID20300034)" src="/imagestore/patrons/1644978863883_SCLSID20300034.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1473">William CHEN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_5_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1482"><img border="0" alt="William RUAN (Student: SCLSID20300045)" title="William RUAN (Student: SCLSID20300045)" src="/imagestore/patrons/1644978858718_SCLSID20300045.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1482">William RUAN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_5_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1452"><img border="0" alt="Yiyi KWOK (Student: SCLSID20300010)" title="Yiyi KWOK (Student: SCLSID20300010)" src="/imagestore/patrons/1644978860273_SCLSID20300010.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1452">Yiyi KWOK</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td>&nbsp;</td>
+   </tr>
+</tbody></table>
+  
+                        </td>
+                    </tr>
+                </tbody></table>
+<table id="CheckoutSelectPatronMainTable" cellspacing="0" cellpadding="3" width="100%" border="0">
+                    <tbody><tr>
+	                   <td class="TableHeading" valign="bottom" width="55%">
+	                     Homeroom: 5.6 Mr. Fortunah and Ms. Yu
+                       </td><td align="left">
+                       <span class="ColRowBold">Sort By</span>
+	                      <select name="sortType" onchange="this.form.submit()" class="ColRow right-align"><option value="1" selected="selected">First Name</option> 
+	                          <option value="2">Last Name</option> 
+	                          <option value="3">Nickname</option></select>
+	                   </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2"><img src="/images/icons/general/line.gif" border="0" alt="" title="" width="100%" height="1"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <table id="CheckoutSelectPatronTable" cellpadding="5" cellspacing="0" width="100%">
+   <tbody><tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1461"><img border="0" alt="Amber SHEN (Student: SCLSID20300019)" title="Amber SHEN (Student: SCLSID20300019)" src="/imagestore/patrons/1644978861503_SCLSID20300019.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1461">Amber SHEN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1499"><img border="0" alt="Anna YANG (Student: SCLSID20300063)" title="Anna YANG (Student: SCLSID20300063)" src="/imagestore/patrons/1644978864208_SCLSID20300063.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1499">Anna YANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1514"><img border="0" alt="Belle ZOU (Student: SCLSID20300078)" title="Belle ZOU (Student: SCLSID20300078)" src="/imagestore/patrons/1644978865708_SCLSID20300078.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1514">Belle ZOU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_0_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6174"><img border="0" alt="Chelsea LUO (Student: 203010114)" title="Chelsea LUO (Student: 203010114)" src="/images/en/icons/general/noselectpatronimage.gif?cachevers=4" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6174">Chelsea LUO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1517"><img border="0" alt="Crystal CHANG (Student: SCLSID20300081)" title="Crystal CHANG (Student: SCLSID20300081)" src="/imagestore/patrons/1644978864928_SCLSID20300081.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1517">Crystal CHANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6584"><img border="0" alt="Deniz SISMAN (Student: SCLSID20300117)" title="Deniz SISMAN (Student: SCLSID20300117)" src="/images/en/icons/general/noselectpatronimage.gif?cachevers=4" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6584">Deniz SISMAN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1521"><img border="0" alt="Elmes LI (Student: SCLSID20300085)" title="Elmes LI (Student: SCLSID20300085)" src="/imagestore/patrons/1644978860733_SCLSID20300085.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1521">Elmes LI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_1_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=3635"><img border="0" alt="Familia WONG (Student: SCLSID20300105)" title="Familia WONG (Student: SCLSID20300105)" src="/imagestore/patrons/1644978865288_SCLSID20300105.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=3635">Familia (Familia) WONG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1513"><img border="0" alt="Gavin GAO (Student: SCLSID20300077)" title="Gavin GAO (Student: SCLSID20300077)" src="/imagestore/patrons/1644978859573_SCLSID20300077.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1513">Gavin GAO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6171"><img border="0" alt="Giulia SANQUERIN (Student: 203010111)" title="Giulia SANQUERIN (Student: 203010111)" src="/images/en/icons/general/noselectpatronimage.gif?cachevers=4" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=6171">Giulia SANQUERIN</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=4657"><img border="0" alt="Jayden XU (Student: SCLSID20300106)" title="Jayden XU (Student: SCLSID20300106)" src="/imagestore/patrons/1644978861318_SCLSID20300106.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=4657">Jayden XU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_2_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1464"><img border="0" alt="Jean HONG (Student: SCLSID20300022)" title="Jean HONG (Student: SCLSID20300022)" src="/imagestore/patrons/1644978860108_SCLSID20300022.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1464">Jean HONG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1496"><img border="0" alt="Jeremy HUANG (Student: SCLSID20300060)" title="Jeremy HUANG (Student: SCLSID20300060)" src="/imagestore/patrons/1644978863443_SCLSID20300060.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1496">Jeremy HUANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1444"><img border="0" alt="Joel LUO (Student: SCLSID20300002)" title="Joel LUO (Student: SCLSID20300002)" src="/imagestore/patrons/1644978860818_SCLSID20300002.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1444">Joel LUO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1855"><img border="0" alt="Leo YANG (Student: SCLSID20300093)" title="Leo YANG (Student: SCLSID20300093)" src="/imagestore/patrons/1644978859933_SCLSID20300093.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1855">Leo YANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_3_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1512"><img border="0" alt="Max LIU (Student: SCLSID20300076)" title="Max LIU (Student: SCLSID20300076)" src="/imagestore/patrons/1644978863603_SCLSID20300076.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1512">Max LIU</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1495"><img border="0" alt="Mia LI (Student: SCLSID20300059)" title="Mia LI (Student: SCLSID20300059)" src="/imagestore/patrons/1644978863223_SCLSID20300059.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1495">Mia LI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1511"><img border="0" alt="Mia TZUOO (Student: SCLSID20300075)" title="Mia TZUOO (Student: SCLSID20300075)" src="/imagestore/patrons/1644978861163_SCLSID20300075.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1511">Mia TZUOO</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_2" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1491"><img border="0" alt="Mike LI (Student: SCLSID20300055)" title="Mike LI (Student: SCLSID20300055)" src="/imagestore/patrons/1644978860998_SCLSID20300055.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1491">Mike LI</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_4_3" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1476"><img border="0" alt="Nicholas HUANG (Student: SCLSID20300037)" title="Nicholas HUANG (Student: SCLSID20300037)" src="/imagestore/patrons/1644978862308_SCLSID20300037.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1476">Nicholas HUANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+   </tr>
+   <tr>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_5_0" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1501"><img border="0" alt="Ryan ZHANG (Student: SCLSID20300065)" title="Ryan ZHANG (Student: SCLSID20300065)" src="/imagestore/patrons/1644978859178_SCLSID20300065.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=1501">Ryan ZHANG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td align="center" width="25%" valign="bottom">
+         <table id="CheckoutSelectPatronTable_5_1" cellpadding="2">
+            <tbody><tr>
+               <td align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=3638"><img border="0" alt="Yufei ZENG (Student: SCLSID20300104)" title="Yufei ZENG (Student: SCLSID20300104)" src="/imagestore/patrons/1644978858948_SCLSID20300104.jpg" width="80"></a>
+               </td>
+            </tr>
+            <tr>
+              <td class="ColRowBold" align="center">
+                  <a href="/circulation/servlet/handlecheckoutform.do?collectionType=0&amp;toHomeroomMode=true&amp;selectedPatronID=3638">Yufei ZENG</a>
+              </td>
+            </tr>
+         </tbody></table>
+      </td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+   </tr>
+</tbody></table>
+  
+                        </td>
+                    </tr>
+                </tbody></table>
